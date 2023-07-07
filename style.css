@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    background-color: #bdbdbd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: whitesmoke;
+    height: 150px;
+    margin: 0 auto;
+    border: solid 2px;
+}
+
+.conteudo{
+    background-color: grey;
+    height: 500px;
+    width: 800px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: solid 2px;
+}
+
+.lado{
+    background-color: grey;
+    height: 500px;
+    float: left;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: solid 2px;
+    
+}
+
+.rodape{
+    height: 160px;
+    clear: both;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.gato{
+    width: 15%;
+}
+
+.title{
+    margin-left: 33%;
+    position: absolute;
+    margin-top: 4%;
+}
+
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 225%;
+    text-align: justify;
+ }
+
+.eu{
+    border-radius: 50%;
+    border: solid black 3px;
+    margin-top: 20%;
+    margin-left: 8%;
+    position: absolute;
+}
+
+.whats{
+    width: 3%;
+    margin-right: 85%;
+    float: right;
+}
+
+.insta{
+    width: 2%;
+    margin-right: 86%;
+    float: right;
+}
+
+h3{
+    margin-left: 1%;
+}
+
+
